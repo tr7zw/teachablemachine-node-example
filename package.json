@@ -1,0 +1,21 @@
+{
+    "name": "tensorflowtest",
+    "version": "1.0.0",
+    "description": "Testing",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "tr7zw",
+    "license": "DWYWL",
+    "dependencies": {
+        "@teachablemachine/image": "^0.8.4",
+        "@tensorflow/tfjs": "^1.3.1",
+        "@tensorflow/tfjs-node": "^0.1.9",
+        "body-parser": "^1.19.0",
+        "canvas": "^2.6.0",
+        "express": "^4.17.1",
+        "jsdom": "^15.2.1",
+        "node-fetch": "^2.6.0"
+    }
+}
