@@ -1,3 +1,5 @@
+# Check out [this](https://github.com/drinkspiller/teachablemachine-node-example/) fork of this repo for a more up to date version. This repo is going to be archived and unmaintained!
+
 # teachablemachine-node-example
 Showing a workaround to get get teachablemachine's tf.js models running in node and beeing able to post images with json feedback
 ## Setup
